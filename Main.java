@@ -5,5 +5,6 @@ public class Main{
         System.out.println("This is Java program for jenkins");
          System.out.println("Date is: "+new Date());//
          //adding stuff after doing git setup.
+         //in jenkins 2 so adding this.
     }
 }
